@@ -35,10 +35,10 @@ I evaluated the performance of each model based on the classification accuracy, 
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 | --- | --- | --- | --- | --- |
-| Decision Tree | 0.9355 | 0.9630 | 0.9630 | 0.9630 |
-| Random Forest | 0.9032 | 0.9138 | 0.9815 | 0.9464 |
-| XGBoost | 0.9032 | 0.9138 | 0.9815 | 0.9464 |
-| LightGBM | 0.9298 | 0.9815 | 0.9550 | 0.9464 |
+| Decision Tree | **0.9355** | 0.9630 | 0.9630 | **0.9630** |
+| Random Forest | 0.9032 | 0.9138 | **0.9815** | 0.9464 |
+| XGBoost | 0.9032 | 0.9138 | **0.9815** | 0.9464 |
+| LightGBM | 0.9298 | **0.9815** | 0.9550 | 0.9464 |
 
 Although this method sounds promising, one should note that the prediction relies on a very imprecise measurement of an individual's activities. Incorporating data with more precise categories for each feature is a great direction.
 
