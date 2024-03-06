@@ -1,5 +1,5 @@
 <h1>
-  Lung cancer preliminary risk assessment with decision trees
+  Lung cancer preliminary risk assessment
 </h1>
 
 
