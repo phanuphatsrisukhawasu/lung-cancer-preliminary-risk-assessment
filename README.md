@@ -46,4 +46,4 @@ Although this method sounds promising, one should note that the prediction relie
   🧑🏻‍🏫 References
 </h2>
 
-*Lung cancer dataset*. (2024, February 23). Kaggle. https://www.kaggle.com/datasets/shreyasparaj1/lung-cancer-dataset/data
+Paraj-Patil, Shreyas. “Lung Cancer Dataset.” *Kaggle*, 23 Feb. 2024, www.kaggle.com/datasets/shreyasparaj1/lung-cancer-dataset/data. 
